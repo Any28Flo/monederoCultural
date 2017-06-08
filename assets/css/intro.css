@@ -13,7 +13,7 @@ body{
 }
 
 .recompensa{
-    color: #1BE7FF;
+    color: #E8AA14;
 }
 
 .puntos{
@@ -21,7 +21,7 @@ body{
 }
 
 .descuentos{
-    color: #E8AA14;
+    color: #1BE7FF;
 }
 
 .punteroModal{
@@ -31,11 +31,11 @@ body{
 }
 
 a:hover{
-    color: #541388;
+    color: #E8AA14;
 }
 
 .fondoModalRecompensa{
-    background-color: #1BE7FF;
+    background-color: #E8AA14;
     color: white;
     font-size: 20px;
 }
@@ -47,7 +47,7 @@ a:hover{
 }
 
 .fondoModalDescuentos{
-    background-color: #E8AA14;
+    background-color: #1BE7FF;
     color: white;
     font-size: 20px;
 }
@@ -56,6 +56,18 @@ a:hover{
     border-radius: 3%;
 }
 
+.botonInicio{
+    background-color: #E8AA14;
+    border: none;
+    font-size: 18px;
+    margin-top: 10px;
+    padding: 5px;
+    color: white;
+}
+
+.botonInicio:hover{
+    color: #541388;
+}
 
 
 

@@ -1,14 +1,14 @@
 
 var codigoVerificado = function(){
 	
-	alert("Bienvenido a monedero. Nuevo Usuario");
+	alert("Bienvenido a monedero!!");
 	window.location.href ="perfil.html";
 
 
 }
 var bienvenida = function (){
 	var $nombre = $("#nomUsuario").val();
-	alert("Bienvenido"+$nombre);
+	alert("Bienvenido: "+$nombre);
 	window.location.href ="perfil.html";
 
 

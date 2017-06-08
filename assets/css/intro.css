@@ -1,0 +1,26 @@
+.logoIntro{
+    width: 100%;
+}
+
+.justificarTexto{
+    text-align: justify;
+    font-size: 18px;
+}
+
+.recompensa{
+    color: #D90368;
+}
+
+.puntos{
+    color: #E4FF1A;
+}
+
+.descuentos{
+    color: #1BE7FF;
+}
+
+.punteroModal{
+    cursor: pointer;
+    font-size: 25px;
+    color: inherit;
+}

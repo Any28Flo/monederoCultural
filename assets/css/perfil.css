@@ -36,6 +36,10 @@
     background-color: #E8AA14;
 }
 
+.amarillo {
+    background-color: #E4FF1A;
+}
+
 
 .btn-mar {
     margin-bottom: 0;
@@ -46,4 +50,8 @@
     width: 22%;
     margin-top: 3%;
     
+}
+
+.btn-mar button a {
+    text-decoration: none;
 }

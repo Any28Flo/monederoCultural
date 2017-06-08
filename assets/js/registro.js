@@ -1,3 +1,4 @@
+
 var codigoVerificado = function(){
 	
 	alert("Bienvenido a monedero. Nuevo Usuario");
@@ -10,8 +11,9 @@ var cargaPagina = function (){
 	$("#enviarCodigo").click(codigoVerificado);
 
 }
-
-
+var cargaPagina = function (){
+	(".enviarCodigo").click("codigoVerificado");
+}
 
 $(document).ready(cargaPagina);
 
